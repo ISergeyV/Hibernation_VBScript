@@ -1,7 +1,8 @@
 ## VBScript Hibernation Timer
 
-This VBScript allows users to set a timer in minutes, after which the script triggers the hibernation mode on the Windows operating system. It can be useful in scenarios where you want your computer to automatically hibernate after a specific duration of inactivity.
+This VBScript was developed as an alternative to a TV timer, allowing users to set a timer in minutes after which the script triggers the hibernation mode on the Windows operating system. It can be particularly useful when watching movies or TV shows, as it automatically turns off the computer after a specified duration, eliminating the need to manually shut it down.
 
+> *This script was written by me in 2000, being a student of the Azov Regional Institute of Management.*
 ### How it works
 
 1. The script begins by creating an instance of the `WScript.Shell` object to interact with the Windows shell.
